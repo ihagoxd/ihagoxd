@@ -1,52 +1,75 @@
+<img src="./assets/profile-banner.svg" width="100%" alt="Ihago Martins — Programador e Desenvolvedor de Sistemas" />
+
 <div align="center">
 
-# Ihago Martins
-### Desenvolvimento web · Interfaces · Aplicações para negócios
+**DESENVOLVIMENTO WEB &nbsp; / &nbsp; SISTEMAS &nbsp; / &nbsp; TECNOLOGIA**
 
-Transformando ideias em experiências digitais.
-
-[Projetos](#projetos-em-destaque) &nbsp; · &nbsp; [Geriu](https://github.com/geriuapp) &nbsp; · &nbsp; [Instagram](https://www.instagram.com/ihagomartins1/)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=63E6D6)](https://www.instagram.com/ihagomartins1/)
+[![Geriu](https://img.shields.io/badge/GERIU-161B22?style=for-the-badge&logo=github&logoColor=63E6D6)](https://github.com/geriuapp)
 
 </div>
 
----
+## 01 &nbsp; / &nbsp; Sobre mim
 
-### Olá, sou o Ihago 👋
+Sou **Ihago Martins**, programador e desenvolvedor de sistemas. Atuo profissionalmente com desenvolvimento e construo aplicações web que conectam interfaces, regras de negócio e dados.
 
-Desenvolvo aplicações web, da interface ao banco de dados. Gosto de transformar necessidades reais em soluções úteis, com atenção à experiência de uso, à organização do código e à segurança.
+Gosto de entender o problema antes de escrever a solução. Meu trabalho une atenção à experiência de uso, organização do código e cuidado com segurança — da primeira interação à persistência dos dados.
 
-Atualmente, contribuo com a **[Geriu](https://github.com/geriuapp)** e desenvolvo projetos para ampliar minha prática em desenvolvimento web.
+Também contribuo com a **[Geriu](https://github.com/geriuapp)**, aplicando tecnologia a soluções para negócios.
 
-### Tecnologias
+## 02 &nbsp; / &nbsp; Como trabalho
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Interfaces | TypeScript · JavaScript · React · HTML · CSS · Tailwind CSS |
-| Backend | Node.js · Bun · Express |
-| Dados | PostgreSQL · Drizzle ORM |
-| Ferramentas | Git · GitHub · Docker |
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>◈ &nbsp; Interfaces</h3>
+<p>Experiências responsivas, navegação clara e atenção aos detalhes que tornam o uso mais natural.</p>
+</td>
+<td width="33%" valign="top">
+<h3>⌘ &nbsp; Sistemas</h3>
+<p>Regras de negócio, autenticação e integração entre as diferentes partes da aplicação.</p>
+</td>
+<td width="33%" valign="top">
+<h3>⛁ &nbsp; Dados</h3>
+<p>Modelagem, persistência e organização das informações que sustentam o produto.</p>
+</td>
+</tr>
+</table>
 
-### Projetos em destaque
+## 03 &nbsp; / &nbsp; Stack de desenvolvimento
 
-**[Anjo Secreto ↗](https://github.com/ihagoxd/sistema-anjo-secreto)**  
-Aplicação com autenticação, sorteio em ciclo completo e chat anônimo. Node.js, Express, PostgreSQL e Handlebars, com camadas de proteção para a aplicação.
+**FRONTEND**
 
-**[FinControl ↗](https://github.com/ihagoxd/fincontrol-fiap)**  
-Dashboard financeiro pessoal responsivo, criado para uma atividade avaliativa da FIAP.
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=663399)
 
-**[DWG Site ↗](https://github.com/ihagoxd/dwg-site)**  
-Mais um projeto web do meu portfólio. Explore o código no repositório.
+**BACKEND & DADOS**
+
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Bun](https://img.shields.io/badge/Bun-161B22?style=for-the-badge&logo=bun&logoColor=FBF0DF)
+![Express](https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-161B22?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+
+**FERRAMENTAS & AMBIENTE**
+
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 <div align="center">
 
-**Vamos conectar?**  
-Conheça meus projetos por aqui ou me encontre no [Instagram](https://www.instagram.com/ihagomartins1/).
+### Do problema à solução, com código.
+
+Trocar ideias sobre desenvolvimento e tecnologia faz parte do processo.  
+**[Vamos conversar ↗](https://www.instagram.com/ihagomartins1/)**
+
+<sub>Ihago Martins &nbsp; · &nbsp; @ihagoxd &nbsp; · &nbsp; Brasil</sub>
 
 </div>
